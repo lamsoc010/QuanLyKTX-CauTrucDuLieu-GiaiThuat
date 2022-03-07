@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-14">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/phanmem/sql/Microsoft JDBC Driver 6.0 for SQL Server/sqljdbc_6.0/enu/jre8/sqljdbc42.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="lb/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="lb/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="lb/commons-compress-1.21.jar"/>
+	<classpathentry kind="lib" path="lb/commons-io-2.11.0.jar"/>
+	<classpathentry kind="lib" path="lb/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="lb/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="lb/curvesapi-1.06.jar"/>
+	<classpathentry kind="lib" path="lb/log4j-api-2.14.1.jar"/>
+	<classpathentry kind="lib" path="lb/poi-5.1.0.jar"/>
+	<classpathentry kind="lib" path="lb/poi-examples-5.1.0.jar"/>
+	<classpathentry kind="lib" path="lb/poi-excelant-5.1.0.jar"/>
+	<classpathentry kind="lib" path="lb/poi-javadoc-5.1.0.jar"/>
+	<classpathentry kind="lib" path="lb/poi-ooxml-5.1.0.jar"/>
+	<classpathentry kind="lib" path="lb/poi-ooxml-full-5.1.0.jar"/>
+	<classpathentry kind="lib" path="lb/poi-ooxml-lite-5.1.0.jar"/>
+	<classpathentry kind="lib" path="lb/poi-scratchpad-5.1.0.jar"/>
+	<classpathentry kind="lib" path="lb/slf4j-api-1.7.32.jar"/>
+	<classpathentry kind="lib" path="lb/SparseBitSet-1.2.jar"/>
+	<classpathentry kind="lib" path="lb/xmlbeans-5.0.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
